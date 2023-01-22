@@ -1,3 +1,6 @@
+# Dek-D Front-end Developer Intern
+An assignment for Dek-D front-end developer intern which build image slider using ReactJs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
